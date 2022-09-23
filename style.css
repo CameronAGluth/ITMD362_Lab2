@@ -1,6 +1,7 @@
-label {
+body {
+  text-align: center;
     display: block;
-    font: 1rem 'Fira Sans', sans-serif;
+    font: 1rem 'Aerial', sans-serif;
 }
 
 input,

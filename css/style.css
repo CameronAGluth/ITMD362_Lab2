@@ -2,6 +2,8 @@ body {
   text-align: center;
     display: block;
     font: 1rem 'Aerial', sans-serif;
+      background-color: purple;
+      color: white;
 }
 
 input,

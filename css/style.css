@@ -1,12 +1,26 @@
 body {
   text-align: center;
+  margin: auto;
     display: block;
     font: 1rem 'Aerial', sans-serif;
-      background-color: purple;
+      background-color: olive;
       color: white;
 }
 
 input,
 label {
     margin: .4rem 0;
+    width: 90%;
+}
+
+form {
+  background-color: Navy;
+  height: 10em;
+  width: 50em;
+  margin: auto;
+  padding: 3em;
+  text-align: center;
+  list-style: none;
+  color: yellow;
+  box-sizing: content-box;
 }
